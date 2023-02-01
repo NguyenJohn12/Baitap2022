@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-box{
+    background-color: #BE3144;
+    text-align: right;
+}
+#navbar a{
+text-decoration: none;
+display: inline-block;
+color: white;
+font-size: 20.416px;
+font-family: 'Times New Roman', Times, serif;
+padding: 20px;
+cursor: pointer;
+}
+#navbar a:hover{
+    background-color: #303841;
+}
+.welcome-section{
+    background-color: #000;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.text{
+    color: #f0f0f0;
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text1{
+    color: #BE3144;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.projects{
+    background-color: #45567D;
+height: 100vh;
+width: 100%;
+}
+.header{
+    text-align: center;
+    padding-top: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #f0f0f0;
+    text-decoration: underline;
+    display: block;
+    line-height: 1.4px;
+}

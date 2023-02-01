@@ -1,0 +1,48 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+.link{
+    color: rgb(0, 113, 133);
+    font-size: medium;
+}
+.nike{
+    color: Black;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    /* padding-bottom: 5px; */
+}
+.price{
+    /* padding:10px; */
+    color:rgb(0, 118, 0);
+    font-size: medium;
+    /* font-weight: */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.add{
+    background-color: rgb(255, 216, 20);
+    width: 140px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    font-size: medium;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    margin-right:8px ;
+}
+.buy{
+    background-color: rgb(255, 164, 28);
+    width: 140px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    font-size: medium;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+}

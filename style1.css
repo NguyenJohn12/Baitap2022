@@ -1,0 +1,229 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+.uber{
+    padding: 12px 15px 12px 15px;
+    /* height: 40px; */
+    /* width: 110px; */
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    /* font-size: medium; */
+    cursor: pointer;
+}
+.Amazon{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    padding: 7px 35px 7px 35px;
+    /* height: 50px; */
+    /* width: 200px; */
+    border:1px solid white;
+    border-radius: 20px;
+    text-align: center;
+    /* border-color: white; */
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+.git{
+    background-color: rgb(46, 164, 79);
+    /* padding: 50px; */
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px 10px 20px ;
+    /* height: 50px; */
+    /* width: 100px; */
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    cursor: pointer;
+}
+.B3{
+     margin:0;
+    padding: 15px;
+}
+.B2{
+     margin:0;
+    padding: 15px;
+}
+.B1{
+    margin:0;
+    padding: 15px;
+}
+.BS{
+    margin: 0;
+    padding: 15px;
+}
+.Bootstrap{
+    background-color: rgb(121, 82, 179);
+    /* width:110px; */
+    padding: 15px 15px 15px 15px;
+    /* height: 50px; */
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    /* text-size-adjust: 50px; */
+}
+.bootstrap{
+    background-color:white;
+    padding: 15px 15px 15px 15px;
+    /* width: 100px; */
+    /* height: 50px; */
+    border: 1px solid black;
+    border-radius: 5px;
+    color:  rgb(108, 117, 125);
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+
+}
+.Linkln-button{
+background-color: rgb(10, 102, 194);
+border: 1px solid white;
+padding:15px 35px 15px 35px;
+/* height: 50px; */
+/* width:250px; */
+border-radius: 20px;
+color: white;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+cursor: pointer;
+}
+.Save-button{
+background-color: white;
+border: 2px solid rgb(10, 102, 194);
+padding:15px 25px 15px 25px;
+/* height: 50px; */
+/* width:100px; */
+border-radius: 20px;
+color:rgb(10, 102, 194);
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+cursor: pointer;
+}
+.Linkln{
+    margin: 0;
+    padding: 15px ;
+}
+.tweet{
+    background-color: rgb(29 161 242);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px ;
+    color:white;
+    cursor: pointer;
+    padding:10px 25px 10px 25px;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+.subscribe{
+    /* width: 200px; */
+    background-color: rgb(204,0,0);
+    padding: 5px 10px 5px 10px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-family: "Roboto","Arial",sans-serif;
+    font-size: 14px;
+    padding: 10px 25px 10px 25px;
+    border: 1px solid white;
+    border-radius: 3px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+    margin-right: 8px;
+    margin-left: 20px;
+}
+.pag-button{
+    background-color: none;
+    padding: 5px 7px 5px 7px;
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pagination a{
+    text-decoration: none;
+    color: black;
+    /* float: left; */
+    padding: 10px 16px 10px 16px;
+    font-size: 20px;
+}
+.pagination{
+    padding-top: 10px;
+    display: inline-block;
+    letter-spacing: 5px;
+    /* text-decoration: none; */
+}
+.pagination a.active{
+background-color: #4CAF50;
+color: white;
+border-radius: 5px;
+}
+
+.pagination a:hover:not(.active){
+ background-color: #ddd;
+ border-radius: 5px;
+}
+.stretch{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid white;
+    cursor: pointer;
+    /* text-transform: uppercase; */
+    transition: .5s;
+}
+.stretch:hover{
+    padding: 20px 30px 20px 30px;
+}
+.shadow-button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    /* border: 1px solid white; */
+    border: none;
+    cursor: pointer;
+    box-shadow: 3px 4px 3px rgb(0,0,0,0.3);
+}
+.shadow-button:active{
+    box-shadow: none;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+.number-button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid white;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* text-transform: uppercase; */
+    transition: padding 0.5s, 
+    margin 0.5s;
+}
+.number-button:hover{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
