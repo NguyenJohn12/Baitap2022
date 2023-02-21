@@ -53,3 +53,44 @@ width: 100%;
     display: block;
     line-height: 1.4px;
 }
+.sectionfiles a{
+    text-decoration: none;
+    color: white;
+    font-size: 18.56px;
+    font-family: sans-serif;
+    font-style: bold;
+    /* display: flex; */
+    cursor: pointer;
+    border: 1px solid none;
+    box-sizing: border-box;
+}
+.project-img{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+.project-link{
+    position: relative;
+}
+.img-sent{
+    box-sizing: inherit;
+    background: #303841;
+    /* padding: 18.6px 4.64px; */
+    border-radius: 0px 0px 2px 2px;
+    background-size: cover;
+    width: 400px;
+    height: 60px;
+    bottom:0%;
+    position: absolute;
+}
+.p-sent{
+    display: block;
+    text-align: center;
+    padding: 1rem;
+}
+.sectionfiles{
+display: flex;
+justify-content: space-around;
+padding-top: 80px;
+/* border: 1px solid white; */
+}
